@@ -1,6 +1,6 @@
 # Bookbank
 
-![Demo Image](https://github.com/Abdelmalek-Djemaa/ESTIN_Student/blob/c59a324114e62483410aa0be96e4d98f0c1ec792/src/assets/01.jpg)
+![Demo Image](https://github.com/Abdelmalek-Djemaa/bookbank/blob/87863ed7e08ff34a95ddb1b0fbdac78aec95bba3/src/assets/01.png)
 
 ## About
 
