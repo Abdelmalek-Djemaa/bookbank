@@ -1,5 +1,7 @@
 # Bookbank
 
+![Demo Image](https://github.com/Abdelmalek-Djemaa/ESTIN_Student/blob/c59a324114e62483410aa0be96e4d98f0c1ec792/src/assets/01.jpg)
+
 ## About
 
 This project is a comprehensive book management system built with React.js and styled using Tailwind CSS. The system allows users to add, update, and delete books, as well as view detailed information about each book (only front-end). The intuitive and responsive user interface ensures a seamless experience across devices.
